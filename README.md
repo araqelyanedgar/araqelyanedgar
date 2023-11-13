@@ -33,7 +33,7 @@ I'm currently working on:
       - Natural Language, Core Data, Userdefaults
       - Alamofire, Moya, GraphQL
 
-   - [Link to the app](https://apps.apple.com/am/app/oragic-smart-daily-journal/id1672773867).
+   - [Link to the app](https://apps.apple.com/am/app/oragic-smart-daily-journal/id1672773867)
 
 2. **Text'nPayMe**
    - Text'n Pay Me is a banking keyboard that enables banks’ clients to
@@ -46,7 +46,7 @@ I'm currently working on:
       - Natural Language, Core Data, Userdefaults
       - Alamofire, Moya, GraphQL
 
-   - [Link to the app](https://apps.apple.com/am/app/oragic-smart-daily-journal/id1672773867).
+   - [Link to the app](https://apps.apple.com/am/app/oragic-smart-daily-journal/id1672773867)
 
 Feel free to check out my repositories to see what else I've been working on!
 
