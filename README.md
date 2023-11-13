@@ -1,6 +1,6 @@
 # Edgar
 
-Hi there! 👋 I'm Edgar, a iOS Developer passionate about app development. Welcome to my GitHub profile!
+Hi there! 👋 I'm Edgar, an iOS Developer passionate about app development. Welcome to my GitHub profile!
 
 ## About Me
 
