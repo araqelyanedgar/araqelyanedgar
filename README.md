@@ -5,7 +5,7 @@ Hi there! 👋 I'm Edgar, an iOS Developer passionate about app development. Wel
 ## About Me
 
 - 🌍 I'm based in Yerevan, Armenia.
-- 💼 Currently working as Middle iOS Developer.
+- 💼 Currently working as iOS Developer.
 - 🎓 Graduated from AUA, Computer Science.
 - 💡 I love exploring new technologies and solving interesting problems.
 
